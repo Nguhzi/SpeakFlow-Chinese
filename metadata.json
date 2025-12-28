@@ -1,0 +1,7 @@
+{
+  "name": "SpeakFlow Chinese",
+  "description": "A mobile-first Mandarin learning app focused on speaking and listening confidence through daily interactive sessions and AI role-play.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
